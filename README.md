@@ -32,4 +32,4 @@ With a strong interest in solving real-world problems through code, I'm constant
 I'm always excited to meet other developers, share ideas, and learn together.  
 Whether you're a fellow learner, recruiter, or just curious — feel free to explore my work and reach out anytime!
 
-<p align="center"><em>“Walk like you’re a masterpiece in motion.”</em></p>
+
