@@ -27,9 +27,51 @@ With a strong interest in solving real-world problems through code, I'm constant
 
 ---
 
+## 🚀 Featured Projects
+
+### 🍕 [Pizza Byte](https://github.com/AhmedAfni/pizza-byte)  
+A responsive pizza ordering website with customizable toppings and an intuitive UI.
+
+### ☁️ [What-The-Weather](https://github.com/AhmedAfni/what-the-wheather)  
+Real-time weather app using API integration to show current conditions and forecasts.
+
+### 👔 [Velvet Vogue](https://github.com/AhmedAfni/velvet-vogue)  
+A sleek online store for male fashion, featuring smooth navigation and product categories.
+
+### 🔄 [Palindrome Checker](https://github.com/AhmedAfni/palindrome-checker)  
+Check if a string is a palindrome with this simple, interactive app showcasing logic and string handling.
+
+### 🎰 [Slot Machine](https://github.com/AhmedAfni/slot-machine)  
+An engaging slot machine game with animated reels and randomized results built using JavaScript.
+
+### 🛒 [Grocery](https://github.com/AhmedAfni/grocery)  
+Online grocery shopping platform with search, cart management, and user profiles.
+
+### ✈️ [Travel App](https://github.com/AhmedAfni/Travel-app)  
+Plan trips, explore destinations, and manage bookings with this clean, user-friendly travel app.
+
+---
+
+## 💻 Skills & Technologies
+
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- Tailwind CSS  
+- Git & GitHub  
+- Responsive Web Design  
+- API Integration  
+ 
+---
+
 ### 🤝 Let’s Connect!
 
 I'm always excited to meet other developers, share ideas, and learn together.  
 Whether you're a fellow learner, recruiter, or just curious — feel free to explore my work and reach out anytime!
 
+- GitHub: [github.com/AhmedAfni](https://github.com/AhmedAfni)  
+- Email: *ahmedafni86@gmail.com*  
 
+---
+
+✨ Thanks for stopping by — let’s build something awesome together! 🚀
