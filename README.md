@@ -32,22 +32,22 @@ With a strong interest in solving real-world problems through code, I'm constant
 ### 🍕 [Pizza Byte](https://github.com/AhmedAfni/pizza-byte)  
 A responsive pizza ordering website with customizable toppings and an intuitive UI.
 
-### ☁️ [What-The-Weather](https://github.com/AhmedAfni/what-the-wheather)  
+### ☁️ [What-The-Weather](https://github.com/AhmedAfni/what-the-weather)  
 Real-time weather app using API integration to show current conditions and forecasts.
 
-### 👔 [Velvet Vogue](https://github.com/AhmedAfni/velvet-vogue)  
+### 👔 [Velvet Vogue](https://github.com/AhmedAfni/Velvet-Vogue)  
 A sleek online store for male fashion, featuring smooth navigation and product categories.
 
-### 🔄 [Palindrome Checker](https://github.com/AhmedAfni/palindrome-checker)  
+### 🔄 [Palindrome Checker](https://github.com/AhmedAfni/Palindrome-Checker)  
 Check if a string is a palindrome with this simple, interactive app showcasing logic and string handling.
 
 ### 🎰 [Slot Machine](https://github.com/AhmedAfni/slot-machine)  
 An engaging slot machine game with animated reels and randomized results built using JavaScript.
 
-### 🛒 [Grocery](https://github.com/AhmedAfni/grocery)  
+### 🛒 [Grocery](https://github.com/AhmedAfni/Grosery)  
 Online grocery shopping platform with search, cart management, and user profiles.
 
-### ✈️ [Travel App](https://github.com/AhmedAfni/Travel-app)  
+### ✈️ [Travel App](https://github.com/AhmedAfni/Travel-App)  
 Plan trips, explore destinations, and manage bookings with this clean, user-friendly travel app.
 
 ---
