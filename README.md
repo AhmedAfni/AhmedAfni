@@ -47,8 +47,8 @@ An engaging slot machine game with animated reels and randomized results built u
 ### 🛒 [Grocery](https://github.com/AhmedAfni/Grosery)  
 Online grocery shopping platform with search, cart management, and user profiles.
 
-### ✈️ [Travel App](https://github.com/AhmedAfni/Travel-App)  
-Plan trips, explore destinations, and manage bookings with this clean, user-friendly travel app.
+### 🎯 [taskmaster-laravel](https://github.com/AhmedAfni/taskmaster-laravel)  
+A Laravel-based task management system with admin and user roles. Admins can assign, edit, and manage tasks, while users can view and complete their tasks.
 
 ---
 
